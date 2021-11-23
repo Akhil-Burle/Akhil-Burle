@@ -1,21 +1,15 @@
 <h1 align="center">Hello World👋</h1>
 <h3 align="center"> I'm Wallflower, A passionate Web developer from Milano</h3>
 
-- 🌱 I’m currently mastering my skills in **Javascript**
+- 🌱 I’m currently mastering my skills in **Javascript, HTML & CSS, NODE.JS, MongoDB**
 
-- 👯 I’m looking to collaborate on **Javascript projects**
-
-- 💬 Ask me about **React, Vue**
+- 💬 Ask me about **JavaScript, Node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/somekindofwallflower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somekindofwallflower" height="30" width="40" /></a>
-<a href="https://twitter.com/wallflower408" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wallflower408" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mbarsila-kadiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbarsila-kadiu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17074530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17074530" height="30" width="40" /></a>
-<a href="https://instagram.com/programmerscrunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmerscrunity" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/w4llfl0w3r13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="w4llfl0w3r13" height="30" width="40" /></a>
-<a href="https://discord.gg/wallflower#7007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wallflower#7007" height="30" width="40" /></a>
+<a href="https://discord.gg/Akhil#7303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Akhil#7303" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
