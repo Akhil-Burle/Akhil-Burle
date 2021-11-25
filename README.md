@@ -1,7 +1,7 @@
 <h1 align="center">Hello World👋</h1>
 <h3 align="center"> I'm Akhil, A passionate Web developer from India</h3>
 
-- 🌱 I’m currently mastering my skills in **Javascript, HTML & CSS, NODE.JS, MongoDB**
+- 🌱 I’m currently working on my skills in **Javascript, HTML & CSS, NODE.JS, MongoDB**
 
 - 💬 Ask me about **JavaScript, Node**
 
