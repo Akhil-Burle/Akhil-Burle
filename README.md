@@ -123,4 +123,5 @@
     </p>
     
   ## &#x1f4c8; GitHub Stats
-<img align="center" height="150px" width="300px" src="https://github-readme-stats.vercel.app/api?username=Akhil-Burle&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="nirzak_stats"/>
+[![Github Overview](https://github-readme-stats.vercel.app/api?username=Akhil-Burle&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/0x0is1) <br>
+![Languages](https://github-readme-stats.itzsylex.vercel.app/api/top-langs/?username=Akhil-Burle&hide&theme=chartreuse-dark&)
