@@ -124,4 +124,5 @@
     
   ## &#x1f4c8; GitHub Stats
 [![Github Overview](https://github-readme-stats.vercel.app/api?username=Akhil-Burle&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/0x0is1) <br>
+ ## 💻 Most used programming languages
 ![Languages](https://github-readme-stats.itzsylex.vercel.app/api/top-langs/?username=Akhil-Burle&hide&theme=chartreuse-dark&)
